@@ -1,0 +1,2 @@
+# Oferhlýp
+Oferhlýp is a free libre open source abstract strategy game played between two players on a board made up of 35 hexes. On the surface, gameplay is similar to checkers (draughts.) However, players may move in any of six directions rather than just forwards diagonally. In addition, a player’s own pieces may be jumped to create a more dynamic game, and pieces must be jumped twice before they can be removed from the game.
