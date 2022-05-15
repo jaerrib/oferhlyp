@@ -28,8 +28,7 @@ Players try to eliminate their opponent’s king via jumping attacks while prote
 ## Setup & starting the game
 Players place their tokens on the squares comprising the two rows closest to them with the king occupying the middle square of the edge row. Placement is closer to chess rather than checkers as all squares are utilized regardless of color. 
 
-All tokens start at *full-strength* status with the double bulls-eye side up.
-
+All tokens start at *full-strength* status with the double bulls-eye side up.  
 ![Initial setup](../assets/png/setup_image.png)
 
 Players choose which color (light or dark) to use with the dark color taking the first turn. Players then alternate taking turns.
@@ -62,10 +61,13 @@ A *stalemate* occurs if the two kings are the last pieces on the board as neithe
 Perpetual repetition is illegal. If a board position is repeated three times, the player in control of the situation must find another move.
 
 ## Credits
-**Oferhlýp** was created by John Beers. It was conceived in 2013 while working on another game. **Claim the Crown** incorporated the concept of tokens with two hit points but featured various types of Middle Ages themed units like spearmen and archers and replaced jump attacks with dice rolling combat. Oferhlýp is a purer abstract interpretation of that with a focus on strategy over luck.
+**Oferhlýp** was created by John Beers. It was conceived in 2013 while working on another game. **Claim the Crown** incorporated the concept of tokens with two hit points but featured various types of Middle Ages themed units like spearmen and archers and replaced jump attacks with dice rolling combat. **Oferhlýp** is a purer abstract interpretation of that with a focus on strategy over luck.
+
+> The word *oferhlýp* is an Anglo-Saxon (Old English) word that means "a leap across or over, a bound".
+> (<https://bosworthtoller.com/24132>)
 
 ## Legal
-**Oferhlýp** is available under a Creative Commons Attribution-ShareAlike 4.0 International license. (https://creativecommons.org/licenses/by-sa/4.0/)
+**Oferhlýp** is available under a Creative Commons Attribution-ShareAlike 4.0 International license. (<https://creativecommons.org/licenses/by-sa/4.0/>)
 
 **You are free to:**
 
@@ -84,5 +86,4 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ## Find out more
 
-More information on **Oferhlýp** and “living rules” can be found at:
-http://github.com/jaerrib/oferhlyp
+More information on **Oferhlýp** and “living rules” can be found at: <http://github.com/jaerrib/oferhlyp>
