@@ -89,12 +89,6 @@
   <ellipse cx="48" cy="48" rx="23.008" ry="23.013" fill="#666"/>
   <ellipse cx="48" cy="48" rx="16.434" ry="16.438" fill="#fff"/>
  </g>
- <g transform="translate(480 31.346)">
-  <ellipse cx="48" cy="48" rx="47.33" ry="47.342" fill="#333" stroke="#000" stroke-width="1.3149"/>
-  <ellipse cx="48" cy="48" rx="26.294" ry="26.301" fill="#fff"/>
-  <ellipse cx="48" cy="48" rx="23.008" ry="23.013" fill="#333"/>
-  <ellipse cx="48" cy="48" rx="16.434" ry="16.438" fill="#fff"/>
- </g>
  <g transform="translate(370.45 688.65)">
   <ellipse cx="48" cy="48" rx="47.33" ry="47.342" fill="#fff" stroke="#000" stroke-width="1.3149"/>
   <ellipse cx="48" cy="48" rx="26.294" ry="26.301"/>
@@ -173,12 +167,6 @@
   <ellipse cx="48" cy="48" rx="23.008" ry="23.013" fill="#fff"/>
   <ellipse cx="48" cy="48" rx="16.434" ry="16.438"/>
  </g>
- <g transform="translate(480 688.65)">
-  <ellipse cx="48" cy="48" rx="47.33" ry="47.342" fill="#d4d4d4" stroke="#000" stroke-width="1.3149"/>
-  <ellipse cx="48" cy="48" rx="26.294" ry="26.301"/>
-  <ellipse cx="48" cy="48" rx="23.008" ry="23.013" fill="#d4d4d4"/>
-  <ellipse cx="48" cy="48" rx="16.434" ry="16.438"/>
- </g>
  <g transform="translate(808.65 140.9)">
   <ellipse cx="48" cy="48" rx="47.33" ry="47.342" fill="#666" stroke="#000" stroke-width="1.3149"/>
   <ellipse cx="48" cy="48" rx="26.294" ry="26.301" fill="#fff"/>
@@ -220,5 +208,19 @@
   <ellipse cx="48" cy="48" rx="26.294" ry="26.301" fill="#fff"/>
   <ellipse cx="48" cy="48" rx="23.008" ry="23.013" fill="#666"/>
   <ellipse cx="48" cy="48" rx="16.434" ry="16.438" fill="#fff"/>
+ </g>
+ <g transform="translate(480,31.346)">
+  <ellipse cx="48" cy="48" rx="47.33" ry="47.342" fill="#666" stroke="#000" stroke-width="1.3149"/>
+  <ellipse cx="48" cy="48" rx="26.294" ry="26.301" fill="#fff"/>
+  <ellipse cx="48" cy="48" rx="23.008" ry="23.013" fill="#666"/>
+  <ellipse cx="48" cy="48" rx="16.434" ry="16.438" fill="#fff"/>
+  <path d="m50.88 45.12h25.08v5.76h-25.08v25.44h-5.76v-25.44h-24.96v-5.76h24.96v-25.44h5.76z" fill="#666"/>
+ </g>
+ <g transform="translate(480,688.65)">
+  <ellipse cx="48" cy="48" rx="47.33" ry="47.342" fill="#fafafa" stroke="#000" stroke-width="1.3149"/>
+  <ellipse cx="48" cy="48" rx="26.294" ry="26.301"/>
+  <ellipse cx="48" cy="48" rx="23.008" ry="23.013" fill="#fafafa"/>
+  <ellipse cx="48" cy="48" rx="16.434" ry="16.438"/>
+  <path d="m50.88 45.12h25.08v5.76h-25.08v25.44h-5.76v-25.44h-24.96v-5.76h24.96v-25.44h5.76z" fill="#fafafa"/>
  </g>
 </svg>
