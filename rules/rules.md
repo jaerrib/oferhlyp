@@ -60,6 +60,10 @@ A *stalemate* occurs if the two kings are the last pieces on the board as neithe
 
 Perpetual repetition is illegal. If a board position is repeated three times, the player in control of the situation must find another move.
 
+### Additional notes
+
+An alternative to using the printed tokens is to substitute with coins. For example, one player could use pennies for the standard tokens and a nickel for the king with other player using dimes with a quarter for the king.
+
 ## Credits
 **Oferhlýp** was created by John Beers. It was conceived in 2013 while working on another game. **Claim the Crown** incorporated the concept of tokens with two hit points but featured various types of Middle Ages themed units like spearmen and archers and replaced jump attacks with dice rolling combat. **Oferhlýp** is a purer abstract interpretation of that with a focus on strategy over luck.
 
