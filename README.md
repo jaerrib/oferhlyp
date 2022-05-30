@@ -2,6 +2,7 @@
 
 ## Overview
 **Oferhlýp** is a free libre open source abstract strategy game played between two players on 7x7 grid. On the surface, gameplay is similar to checkers (draughts). However, there are several differences:
+
 - Tokens may move in any direction rather than just forwards diagonally.
 - A player’s own pieces may be jumped to create a more dynamic game.
 - Tokens must be jumped twice before they are removed from the board.
