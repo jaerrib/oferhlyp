@@ -8,6 +8,8 @@
 - Tokens must be jumped twice before they are removed from the board.
 - Each player has a "king" token that must be captured to end the  game.
 
+![Print-and-play prototype](assets/other/prototype.jpg)
+
 ## History
 **Oferhlýp** was conceived in 2013 while I was working on another game. _Claim the Crown_ incorporated the concept of tokens with two hit points but featured various types of Middle Ages themed units like spearmen and archers and replaced jump attacks with dice rolling combat. **Oferhlýp** is a purer abstract interpretation of that with a focus on strategy over luck.
 
