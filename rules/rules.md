@@ -1,6 +1,6 @@
 % Oferhlýp
 % by John Beers
-% Version 2.0
+% Version 2.1
 
 ## Overview
 **Oferhlýp** is a free libre open source abstract strategy game played between two players on 7x7 grid. On the surface, gameplay is similar to checkers (draughts). However, there are several differences:
@@ -15,8 +15,8 @@ Players try to eliminate their opponent’s king via jumping attacks while prote
 
 ## Components
 - Game board
-- 14 two-sided light tokens (1 king and 13 standard)
-- 14 two-sided dark tokens (1 king and 13 standard)
+- 14 two-sided light tokens (1 king and 13 standard "men")
+- 14 two-sided dark tokens (1 king and 13 standard "men")
 
 *Note: kings are denoted by a different symbol design in comparison to the standard tokens.*
 
@@ -28,7 +28,7 @@ Players try to eliminate their opponent’s king via jumping attacks while prote
 ## Setup & starting the game
 Players place their tokens on the squares comprising the two rows closest to them with the king occupying the middle square of the edge row. Placement is closer to chess rather than checkers as all squares are utilized regardless of color. 
 
-All tokens start at *full-strength* status with the double bulls-eye side up.  
+All tokens start at *full-strength* status with the double rune symbol side up.  
 ![Initial setup](../assets/png/setup_image.png)
 
 Players choose which color (light or dark) to use with the dark color taking the first turn. Players then alternate taking turns.
@@ -47,7 +47,7 @@ Players may *attack* an opponent’s token by jumping directly over it to an ope
 
 Players may perform a *chain attack* by jumping more than one of their opponent’s tokens in a sequence (similar to checkers) following the normal attack rule.
 
-After being attacked, tokens at *full-strength* status are flipped over to the open bulls-eye side to signify that they are now at *half-strength*.
+After being attacked, tokens at *full-strength* status are flipped over to the single rune side to signify that they are now at *half-strength*.
 
 Tokens at *half-strength* status are removed from the board after being attacked a second time and are out of play.
 
