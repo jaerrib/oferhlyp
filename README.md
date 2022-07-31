@@ -1,4 +1,7 @@
 # Oferhlýp
+Development has been moved to **[Codeberg](https://codeberg.org/jaerrib/oferhlyp)**.
+
+![Get it on Codeberg](get-it-on-codeberg.png)
 
 ## Overview
 **Oferhlýp** is a free libre open source abstract strategy game played between two players on 7x7 grid. On the surface, gameplay is similar to checkers (draughts). However, there are several differences:
