@@ -1,6 +1,6 @@
 % Oferhlýp
 % by John Beers
-% Version 2.1
+% Version 2.2
 
 ## Overview
 **Oferhlýp** is a free libre open source abstract strategy game played between two players on 7x7 grid. On the surface, gameplay is similar to checkers (draughts). However, there are several differences:
@@ -65,7 +65,7 @@ Perpetual repetition is illegal. If a board position is repeated three times, th
 An alternative to using the printed tokens is to substitute with coins. For example, one player could use pennies for the standard tokens and a nickel for the king with other player using dimes with a quarter for the king.
 
 ## Credits
-**Oferhlýp** was created by John Beers. It was conceived in 2013 while working on another game. **Claim the Crown** incorporated the concept of tokens with two hit points but featured various types of Middle Ages themed units like spearmen and archers and replaced jump attacks with dice rolling combat. **Oferhlýp** is a purer abstract interpretation of that with a focus on strategy over luck.
+**Oferhlýp** was created by John Beers. It was conceived in 2013 while working on another game, **Claim the Crown** , which incorporated the concept of tokens with two hit points but featured various types of Middle Ages themed units like spearmen and archers and replaced jump attacks with dice rolling combat. **Oferhlýp** is a purer abstract interpretation of that game with a focus on strategy over luck.
 
 > The word *oferhlýp* is an Anglo-Saxon (Old English) word that means "a leap across or over, a bound".
 > (<https://bosworthtoller.com/24132>)
@@ -90,4 +90,4 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ## Find out more
 
-More information on **Oferhlýp** and “living rules” can be found at: <http://github.com/jaerrib/oferhlyp>
+More information on **Oferhlýp** and “living rules” can be found at: <http://codeberg.org/jaerrib/oferhlyp>
