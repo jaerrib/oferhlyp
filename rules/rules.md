@@ -1,59 +1,70 @@
-% Oferhlýp
-% by John Beers
-% Version 2.0
+# Oferhlýp
+
+> Version 2.2.1
 
 ## Overview
-**Oferhlýp** is a free libre open source abstract strategy game played between two players on 7x7 grid. On the surface, gameplay is similar to checkers (draughts). However, there are several differences:
+
+**Oferhlýp** is a free libre open source abstract strategy game played between two players on a 7x7 grid. On the surface, gameplay is similar to checkers (draughts). However, there are several differences:
 
 - Tokens may move in any direction rather than just forwards diagonally.
 - A player’s own pieces may be jumped to create a more dynamic game.
 - Tokens must be jumped twice before they are removed from the board
-- Each player has a king token that must be captured to end the  game.
+- Each player has a king token that must be captured to end the game.
 
 ## Objective
+
 Players try to eliminate their opponent’s king via jumping attacks while protecting their own king.
 
 ## Components
+
 - Game board
-- 14 two-sided light tokens (1 king and 13 standard)
-- 14 two-sided dark tokens (1 king and 13 standard)
+- 14 two-sided light tokens (1 king and 13 standard "men")
+- 14 two-sided dark tokens (1 king and 13 standard "men")
 
 *Note: kings are denoted by a different symbol design in comparison to the standard tokens.*
 
 ### Example tokens
-![Dark standard (full-strength)](../assets/png/token-dark-full.png) Dark (full)  ![Dark king (full-strength)](../assets/png/token-dark-king-full.png) Dark king (full)  
+
+![Dark standard (full-strength)](../assets/png/token-dark-full.png) Dark (full)  ![Dark king (full-strength)](../assets/png/token-dark-king-full.png) Dark king (full)
+
 ![Light standard (half-strength)](../assets/png/token-light-half.png) Light (half)  ![Light king (half-strength)](../assets/png/token-light-king-half.png) Light king (half)
 
-
 ## Setup & starting the game
-Players place their tokens on the squares comprising the two rows closest to them with the king occupying the middle square of the edge row. Placement is closer to chess rather than checkers as all squares are utilized regardless of color. 
 
-All tokens start at *full-strength* status with the double bulls-eye side up.  
+Players place their tokens on the squares comprising the two rows closest to them with the king occupying the middle square of the edge row. Placement is closer to chess rather than checkers as all squares are utilized regardless of color.
+
+All tokens start at *full-strength* status with the double rune symbol side up.
+
 ![Initial setup](../assets/png/setup_image.png)
 
 Players choose which color (light or dark) to use with the dark color taking the first turn. Players then alternate taking turns.
 
 ## Playing the game
-On a player’s turn, the player may *move* or *attack* with one token. 
+
+On a player’s turn, the player may *move* or *attack* with one token.
 
 ### Moving
-Tokens may be moved one square in any direction onto an open square.
+
+Tokens may move one square in any direction onto an open square.
+
 A token belonging to the player may be jumped in a legal move called a *friendly jump*. Making more than one friendly jump per turn is not permitted.
 
 A player may not follow a move or friendly jump by an attack. A player may not follow an attack and with a move or friendly jump.
 
 ### Attacking
+
 Players may *attack* an opponent’s token by jumping directly over it to an open square. Attacks are not compulsory.
 
 Players may perform a *chain attack* by jumping more than one of their opponent’s tokens in a sequence (similar to checkers) following the normal attack rule.
 
-After being attacked, tokens at *full-strength* status are flipped over to the open bulls-eye side to signify that they are now at *half-strength*.
+After being attacked, tokens at *full-strength* status are flipped over to the single rune side to signify that they are now at *half-strength*.
 
 Tokens at *half-strength* status are removed from the board after being attacked a second time and are out of play.
 
 Tokens may not be attacked more than once per turn, even as part of a chain attack. Players also cannot simply jump over a token then jump back over the same token.
 
 ## Winning the game
+
 Players continue to alternate turns until one of the kings has been eliminated.
 
 A *stalemate* occurs if the two kings are the last pieces on the board as neither player could move without placing their own king into a position which would be vulnerable to an *attack*.
@@ -62,15 +73,17 @@ Perpetual repetition is illegal. If a board position is repeated three times, th
 
 ### Additional notes
 
-An alternative to using the printed tokens is to substitute with coins. For example, one player could use pennies for the standard tokens and a nickel for the king with other player using dimes with a quarter for the king.
+An alternative to using the printed tokens is to substitute with coins. For example, one player could use pennies for the standard tokens and a nickel for the king with the other player using dimes with a quarter for the king.
 
 ## Credits
-**Oferhlýp** was created by John Beers. It was conceived in 2013 while working on another game. **Claim the Crown** incorporated the concept of tokens with two hit points but featured various types of Middle Ages themed units like spearmen and archers and replaced jump attacks with dice rolling combat. **Oferhlýp** is a purer abstract interpretation of that with a focus on strategy over luck.
+
+**Oferhlýp** was created by John Beers. It was conceived in 2013 while working on another game, **Claim the Crown** , which incorporated the concept of tokens with two hit points, but featured various types of Middle Ages themed units, like spearmen and archers, and replaced jump attacks with dice rolling combat. **Oferhlýp** is a purer abstract interpretation of that game with a focus on strategy over luck.
 
 > The word *oferhlýp* is an Anglo-Saxon (Old English) word that means "a leap across or over, a bound".
 > (<https://bosworthtoller.com/24132>)
 
 ## Legal
+
 **Oferhlýp** is available under a Creative Commons Attribution-ShareAlike 4.0 International license. (<https://creativecommons.org/licenses/by-sa/4.0/>)
 
 **You are free to:**
@@ -90,4 +103,4 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ## Find out more
 
-More information on **Oferhlýp** and “living rules” can be found at: <http://github.com/jaerrib/oferhlyp>
+More information on **Oferhlýp** and “living rules” can be found at: <http://codeberg.org/jaerrib/oferhlyp>
