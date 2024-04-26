@@ -1,6 +1,6 @@
 # Overview
 
-> Version 2.2.1
+> Version 2.2.2
 
 **Oferhlýp** is a free libre open source abstract strategy game played between two players on a 7x7 grid. On the surface, gameplay is similar to checkers (draughts). However, there are several differences:
 
@@ -24,7 +24,7 @@ Players try to eliminate their opponent’s king via jumping attacks while prote
 ### Example tokens
 
 |---|---|
-|![Da   rk standard (full-strength)](../images/token-dark-full.svg) Dark (full)|![Dark king (full-strength)](../images/token-dark-king-full.svg) Dark king (full)|
+|![Dark standard (full-strength)](../images/token-dark-full.svg) Dark (full)|![Dark king (full-strength)](../images/token-dark-king-full.svg) Dark king (full)|
 | ![Light standard (half-strength)](../images/token-light-half.svg) Light (half)|![Light king (half-strength)](../images/token-light-king-half.svg) Light king (half)|
 
 
@@ -34,7 +34,7 @@ Players place their tokens on the squares comprising the two rows closest to the
 
 All tokens start at *full-strength* status with the double rune symbol side up.
 
-![Initial setup](../images/setup_image.svg)
+![Initial setup](../images/setup_image.png)
 
 Players choose which color (light or dark) to use with the dark color taking the first turn. Players then alternate taking turns.
 
